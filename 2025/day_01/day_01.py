@@ -1,7 +1,8 @@
+# https://adventofcode.com/2025/day/1
+
 # Read input
 with open("input.txt", "r") as f:
     instructions = [line.strip() for line in f]
-
 
 # --------------------
 # Part 1
