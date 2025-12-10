@@ -91,7 +91,7 @@ print(f"Part 1: {total_presses}")
 # --------------------
 # Part 2
 # --------------------
-# Far to expensive to attempt the permutation approach.
+# Far too expensive to attempt the permutation approach.
 # Treat as a linear programming problem
 
 def buttons_to_matrix(buttons, joltages):
